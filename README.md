@@ -1,1 +1,1 @@
-# NewsWidget
+This project was made using Xampp with Apache module. Please install Xampp from https://www.apachefriends.org/ro/index.html.
